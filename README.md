@@ -33,4 +33,4 @@ to<br/>
 # Technical Insights
 
 * I'm sure that the `connect_args={'check_same_thread': False}` line I added to my create_engine call is not something that can be done in a production environment. I don't know how to address the **"SQLite objects created in a thread can only be used in that same thread"** errors, so I'm leaving it for now.
-* My Jupyter Notebook isn't previewing in GitHub, so the link above displays the GitHub file through https://nbviewer.jupyter.org instead.
+* My Jupyter Notebook isn't previewing in GitHub, so my [Jupyter Notebook Solution](https://nbviewer.jupyter.org/github/ekenigsberg/BootCampHomework08-2019-07-27/blob/master/climate_starter.ipynb) link at the top of the page displays the GitHub file through https://nbviewer.jupyter.org instead.
